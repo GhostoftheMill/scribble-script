@@ -1,7 +1,8 @@
 # Note Taker Express.js Challenge
+![Screenshot of deployed app](/public/assets/img/deployed.jpg)
 
 ## Description
->This application is for writing and saving notes.  Express.js is used on the back-end and is used along with JSON, and intregrated with HTML & CSS.
+>This note taking application uses Express, a Node.js application framework used on the back-end to create RESTful APIs. JSON is used to save and retrieve note data. 
   
 ## Table of Contents
 - [Installation](#installation)
@@ -9,10 +10,10 @@
 - [Questions](#questions)
 
 ## Installation
->[Click me to go to deployed app at Heroku](placeholder)
+>[Note Taker App](https://scribble-script.herokuapp.com/)
 
 ## Usage
->Use this project to create a team profile for your business. This code could also be modified to generate a team profile for study groups, athletic teams, or any other group with designated roles and responsibilites.
+>After clicking the link located in ["Installation"](#installation) you will be taken to the front page of the application. Click "Get Started". The application allows you to enter a note title and description, "note text", which you can then save by clicking the save icon that appears at the top right after you have entered your text. Your notes are stored on the left side of the application and can be recalled for viewing simply by clicking on them.  Old notes can easily be deleted using the trash bin icon located next to your created notes.
 
 ## Questions
 >[Kevin White's GitHub (GhostoftheMill)](https://github.com/GhostoftheMill)
